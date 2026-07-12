@@ -1,11 +1,11 @@
 [submodule "gamecontrollerdb"]
 	path = external/gamecontrollerdb
-	url = https://github.com/taisei-project/SDL_GameControllerDB.git
+	url = https://github.com/geekjapan/SDL_GameControllerDB.git
 	branch = master
 [submodule "external/koishi"]
 	path = external/koishi
-	url = https://github.com/taisei-project/koishi.git
+	url = https://github.com/geekjapan/koishi.git
 [submodule "external/basis_universal"]
 	path = external/basis_universal
-	url = https://github.com/taisei-project/basis_universal.git
+	url = https://github.com/geekjapan/basis_universal.git
 	branch = taisei
